@@ -84,3 +84,21 @@ ol{
     justify-content: center;
 }
 
+.form
+{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+}
+input
+{
+    margin-top: 30px;
+}
+.div_vpravo
+{
+    display: flex;
+    justify-content: flex-end;
+
+}
