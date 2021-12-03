@@ -1,0 +1,86 @@
+body {
+
+    background: linear-gradient(#000000, #bb00ff);
+}
+
+p, h1, h2, h3 {
+    color: #e5bcbc;
+    margin: 20px;
+
+
+}
+
+h1, h2, h3 {
+    text-align: center;
+
+}
+
+.video {
+
+    width: 500px;
+    height: 500px;
+}
+
+.divtext{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 100px;
+}
+.div-tube{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.link{
+    display: flex;
+    justify-content: flex-end;
+}
+
+a{
+color: #00ff04;
+
+}
+
+.bruh{
+    padding-left: 10px;
+}
+
+ol{
+    color: #e5bcbc;
+}
+
+.inputs
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.knop{
+    display: flex;
+    justify-content: center;
+}
+
+.knopka{
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 10px 15px;
+    outline: none;
+    border: 0px solid lightgray;
+    cursor: pointer;
+
+
+}
+
+#res{
+    font-size: 30px;
+
+}
+.res
+{
+    display: flex;
+    justify-content: center;
+}
+
